@@ -4,6 +4,7 @@ AeroToken is a decentralized application (DApp) that leverages blockchain techno
 
 ### Visit here - https://flight-ticketing-dapp.vercel.app/
 ## 🚀 Getting Started  
+![image](https://github.com/user-attachments/assets/3ffd16bf-6b08-4075-93ce-5a5121977eee)
 
 ### 📥 Clone the Repository  
 ```bash
